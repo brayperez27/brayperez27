@@ -29,7 +29,7 @@ Ingeniero en Sistemas con experiencia en desarrollo web, soporte técnico y admi
 ## 💼 Experiencia
 
 **🔹 Desarrollador .NET** — Poder Judicial del Estado de Hidalgo  
-`2025 – Presente`  
+`ene 2026 – Presente`  
 Digitalización de procesos judiciales mediante desarrollo de aplicaciones web. Optimización de lógica de negocio con procedimientos almacenados en SQL Server.  
 ![C#](https://img.shields.io/badge/C%23-0969DA?style=flat-square) ![ASP.NET](https://img.shields.io/badge/ASP.NET-0969DA?style=flat-square) ![SQL Server](https://img.shields.io/badge/SQL%20Server-BA7517?style=flat-square)
 
