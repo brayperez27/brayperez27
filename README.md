@@ -176,7 +176,7 @@ Sistema de control y asignación de direcciones IP desarrollado para el departam
 
 | Programa | Institución | Periodo |
 |:---|:---|:---:|
-| **Ingeniería en Sistemas Computacionales** | TecNM · Instituto Tecnológico de Atitalaquia | 2021 — 2024 |
+| **Ingeniería en Sistemas Computacionales** | TecNM · Instituto Tecnológico de Atitalaquia | 2021 — 2025 |
 | **Técnico en Programación** | CETIS No. 26 | 2018 — 2021 |
 
 **Formación continua**
