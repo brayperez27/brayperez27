@@ -5,8 +5,8 @@
 <br>
 
 [![Correo](https://img.shields.io/badge/CORREO-0B2545?style=for-the-badge&logo=maildotru&logoColor=FFFFFF)](mailto:brp170800@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-134074?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://linkedin.com/in/tu-linkedin)
-[![GitHub](https://img.shields.io/badge/GITHUB-1B6CA8?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/TU-USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-134074?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://linkedin.com/in/brayan-rodriguez-perez)
+[![GitHub](https://img.shields.io/badge/GITHUB-1B6CA8?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/brayperez27)
 
 </div>
 
@@ -27,6 +27,7 @@ Complemento mi perfil con experiencia en soporte técnico, administración de re
 - Modelado de bases de datos relacionales
 - Procedimientos almacenados y optimización de consultas
 - Reportería con Crystal Reports
+- Firma electrónica avanzada (PKCS7 / PFX)
 
 </td>
 <td width="50%" valign="top">
@@ -35,6 +36,7 @@ Complemento mi perfil con experiencia en soporte técnico, administración de re
 - Administración de redes LAN y cableado estructurado
 - Soporte técnico y mantenimiento de equipo
 - Sitios corporativos con WordPress
+- Integración de pasarelas de pago y servicios SMTP
 - Proyectos aplicados en IoT, sistemas distribuidos e IA
 
 </td>
@@ -52,6 +54,7 @@ Complemento mi perfil con experiencia en soporte técnico, administración de re
 ![C#](https://img.shields.io/badge/C%23-0B2545?style=flat-square&logo=csharp&logoColor=FFFFFF)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET_WebForms-0B2545?style=flat-square&logo=dotnet&logoColor=FFFFFF)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-0B2545?style=flat-square&logo=microsoftsqlserver&logoColor=FFFFFF)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework_Core-0B2545?style=flat-square&logo=dotnet&logoColor=FFFFFF)
 ![Java](https://img.shields.io/badge/Java-0B2545?style=flat-square&logo=openjdk&logoColor=FFFFFF)
 ![C](https://img.shields.io/badge/C-0B2545?style=flat-square&logo=c&logoColor=FFFFFF)
 
@@ -60,6 +63,7 @@ Complemento mi perfil con experiencia en soporte técnico, administración de re
 ![HTML5](https://img.shields.io/badge/HTML5-134074?style=flat-square&logo=html5&logoColor=FFFFFF)
 ![CSS3](https://img.shields.io/badge/CSS3-134074?style=flat-square&logo=css3&logoColor=FFFFFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-134074?style=flat-square&logo=javascript&logoColor=FFFFFF)
+![Bootstrap](https://img.shields.io/badge/Bootstrap_5-134074?style=flat-square&logo=bootstrap&logoColor=FFFFFF)
 ![WordPress](https://img.shields.io/badge/WordPress-134074?style=flat-square&logo=wordpress&logoColor=FFFFFF)
 
 **Herramientas e infraestructura**
@@ -76,30 +80,29 @@ Complemento mi perfil con experiencia en soporte técnico, administración de re
 
 ## Experiencia profesional
 
-### ![](https://img.shields.io/badge/-0B2545?style=flat-square) Desarrollador .NET · Poder Judicial del Estado de Hidalgo
-**`ene 2026 – actualidad`**
+### Desarrollador .NET · Poder Judicial del Estado de Hidalgo
+![Periodo](https://img.shields.io/badge/ene_2026_—_actualidad-0B2545?style=flat-square)
 
-Desarrollo de aplicaciones web orientadas a la digitalización de procesos judiciales. Diseño e implementación de procedimientos almacenados en SQL Server para optimizar la lógica de negocio y automatizar la generación de documentos oficiales.
+Desarrollo de aplicaciones web orientadas a la digitalización de procesos judiciales. Diseño e implementación de procedimientos almacenados en SQL Server para optimizar la lógica de negocio y automatizar la generación de documentos oficiales, además de la integración de flujos de firma electrónica avanzada.
 
-![C#](https://img.shields.io/badge/C%23-EEF2F7?style=flat-square&labelColor=EEF2F7&color=EEF2F7)
 `C#` `ASP.NET WebForms` `SQL Server` `Crystal Reports`
 
-### ![](https://img.shields.io/badge/-134074?style=flat-square) Desarrollador Web Jr. · GCI Grupo Constructor Industrial Oil & Gas
-**`jul 2025 – dic 2025`**
+### Desarrollador Web Jr. · GCI Grupo Constructor Industrial Oil & Gas
+![Periodo](https://img.shields.io/badge/jul_2025_—_dic_2025-134074?style=flat-square)
 
 Desarrollo del módulo de Servicio Médico dentro del sistema empresarial de la organización. Diseño de la base de datos en SQL Server 2012 e integración con los módulos existentes.
 
 `C#` `ASP.NET` `SQL Server 2012`
 
-### ![](https://img.shields.io/badge/-1B6CA8?style=flat-square) Auxiliar de Centro de Cómputo · TecNM, Instituto Tecnológico de Atitalaquia
-**`ago 2024 – dic 2024`**
+### Auxiliar de Centro de Cómputo · TecNM, Instituto Tecnológico de Atitalaquia
+![Periodo](https://img.shields.io/badge/ago_2024_—_dic_2024-1B6CA8?style=flat-square)
 
 Configuración y mantenimiento de equipos de cómputo, atención de soporte técnico a usuarios, administración de redes LAN y cableado estructurado.
 
 `Redes LAN` `Soporte TI` `Hardware`
 
-### ![](https://img.shields.io/badge/-3DA9FC?style=flat-square) Diseñador Web · Microtex México
-**`may 2024 – ago 2024`**
+### Diseñador Web · Microtex México
+![Periodo](https://img.shields.io/badge/may_2024_—_ago_2024-3DA9FC?style=flat-square)
 
 Diseño y desarrollo del sitio corporativo con WordPress, alineado a la identidad visual de la empresa.
 
@@ -109,15 +112,61 @@ Diseño y desarrollo del sitio corporativo con WordPress, alineado a la identida
 
 ## Proyectos destacados
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Proyecto | Descripción | Tecnologías |
-|:---|:---|:---|
-| **Nombre del proyecto** | Descripción en una línea del problema que resuelve | `C#` `SQL Server` |
-| **Nombre del proyecto** | Descripción en una línea del problema que resuelve | `ASP.NET` `JavaScript` |
-| **Nombre del proyecto** | Descripción en una línea del problema que resuelve | `WordPress` `CSS` |
+### Sistema de Notificaciones Judiciales
 
-</div>
+Plataforma web para la gestión integral de notificaciones en segunda instancia: edictos, notificación personal, diligencias, constancias y actas mínimas. Incluye generación automática de instructivos en PDF, almacenamiento en servidor FTP, firma electrónica avanzada y portal de consulta para las partes notificadas.
+
+![C#](https://img.shields.io/badge/C%23-0B2545?style=flat-square&logo=csharp&logoColor=FFFFFF)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-0B2545?style=flat-square&logo=dotnet&logoColor=FFFFFF)
+![SQL Server](https://img.shields.io/badge/SQL_Server-0B2545?style=flat-square&logo=microsoftsqlserver&logoColor=FFFFFF)
+![Crystal Reports](https://img.shields.io/badge/Crystal_Reports-0B2545?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### Microtex México
+
+Sitio corporativo y catálogo en línea para una empresa de recubrimientos arquitectónicos. Desarrollo completo del backend, base de datos e integración de pasarela de pagos y servicio de correo transaccional, con despliegue en hosting propio.
+
+![ASP.NET](https://img.shields.io/badge/ASP.NET-134074?style=flat-square&logo=dotnet&logoColor=FFFFFF)
+![SQL Server](https://img.shields.io/badge/SQL_Server-134074?style=flat-square&logo=microsoftsqlserver&logoColor=FFFFFF)
+![Conekta](https://img.shields.io/badge/Conekta-134074?style=flat-square)
+![SMTP](https://img.shields.io/badge/SMTP-134074?style=flat-square)
+
+[`microtex.com.mx`](https://microtex.com.mx)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### PuntoVenta Pro
+
+Punto de venta de escritorio para comercio minorista: catálogo de productos con variantes y códigos de barras, control de inventario con alertas de stock, ventas a crédito, puntos de lealtad, historial de operaciones y lectura por escáner de códigos de barras.
+
+![.NET 8](https://img.shields.io/badge/.NET_8-1B6CA8?style=flat-square&logo=dotnet&logoColor=FFFFFF)
+![WPF](https://img.shields.io/badge/WPF_·_MVVM-1B6CA8?style=flat-square)
+![EF Core](https://img.shields.io/badge/EF_Core-1B6CA8?style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-1B6CA8?style=flat-square&logo=sqlite&logoColor=FFFFFF)
+
+</td>
+<td width="50%" valign="top">
+
+### ControlIP
+
+Sistema de control y asignación de direcciones IP desarrollado para el departamento de TI del Poder Judicial. Automatiza el registro, la búsqueda y la detección de conflictos dentro del inventario de equipos de la red institucional.
+
+![VBA](https://img.shields.io/badge/VBA-3DA9FC?style=flat-square)
+![Excel](https://img.shields.io/badge/Excel-3DA9FC?style=flat-square&logo=microsoftexcel&logoColor=FFFFFF)
+![Redes](https://img.shields.io/badge/Redes-3DA9FC?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0B2545,100:3DA9FC" width="100%" />
 
@@ -127,16 +176,16 @@ Diseño y desarrollo del sitio corporativo con WordPress, alineado a la identida
 
 | Programa | Institución | Periodo |
 |:---|:---|:---:|
-| **Ingeniería en Sistemas Computacionales** | TecNM · Instituto Tecnológico de Atitalaquia | 2021 – 2024 |
-| **Técnico en Programación** | CETIS No. 26 | 2018 – 2021 |
+| **Ingeniería en Sistemas Computacionales** | TecNM · Instituto Tecnológico de Atitalaquia | 2021 — 2024 |
+| **Técnico en Programación** | CETIS No. 26 | 2018 — 2021 |
 
 **Formación continua**
 
-| Curso | Institución | Estado |
-|:---|:---|:---:|
-| Diseño Web HTML + CSS | — | En curso |
-| Fundamentos de Inteligencia Artificial | Google | En curso |
-| Microsoft Office | — | Concluido |
+| Curso | Estado |
+|:---|:---:|
+| Diseño Web HTML + CSS | ![En curso](https://img.shields.io/badge/En_curso-1B6CA8?style=flat-square) |
+| Fundamentos de Inteligencia Artificial · Google | ![En curso](https://img.shields.io/badge/En_curso-1B6CA8?style=flat-square) |
+| Microsoft Office | ![Concluido](https://img.shields.io/badge/Concluido-0B2545?style=flat-square) |
 
 </div>
 
@@ -146,8 +195,8 @@ Diseño y desarrollo del sitio corporativo con WordPress, alineado a la identida
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&hide_border=true&bg_color=00000000&title_color=1B6CA8&icon_color=3DA9FC&text_color=6B7A90&locale=es" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&hide_border=true&bg_color=00000000&title_color=1B6CA8&text_color=6B7A90&locale=es" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=brayperez27&show_icons=true&hide_border=true&bg_color=00000000&title_color=1B6CA8&icon_color=3DA9FC&text_color=6B7A90&locale=es" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayperez27&layout=compact&hide_border=true&bg_color=00000000&title_color=1B6CA8&text_color=6B7A90&locale=es" height="165" />
 
 </div>
 
