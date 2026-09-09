@@ -5,7 +5,7 @@
 <br>
 
 [![Correo](https://img.shields.io/badge/CORREO-0B2545?style=for-the-badge&logo=maildotru&logoColor=FFFFFF)](mailto:brp170800@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-134074?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://linkedin.com/in/brayan-rodriguez-perez)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-134074?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://linkedin.com/in/tu-perfil-real)
 [![GitHub](https://img.shields.io/badge/GITHUB-1B6CA8?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/brayperez27)
 
 </div>
@@ -176,7 +176,7 @@ Sistema de control y asignación de direcciones IP desarrollado para el departam
 
 | Programa | Institución | Periodo |
 |:---|:---|:---:|
-| **Ingeniería en Sistemas Computacionales** | TecNM · Instituto Tecnológico de Atitalaquia | 2021 — 2025 |
+| **Ingeniería en Sistemas Computacionales** | TecNM · Instituto Tecnológico de Atitalaquia | 2021 — 2024 |
 | **Técnico en Programación** | CETIS No. 26 | 2018 — 2021 |
 
 **Formación continua**
@@ -186,17 +186,6 @@ Sistema de control y asignación de direcciones IP desarrollado para el departam
 | Diseño Web HTML + CSS | ![En curso](https://img.shields.io/badge/En_curso-1B6CA8?style=flat-square) |
 | Fundamentos de Inteligencia Artificial · Google | ![En curso](https://img.shields.io/badge/En_curso-1B6CA8?style=flat-square) |
 | Microsoft Office | ![Concluido](https://img.shields.io/badge/Concluido-0B2545?style=flat-square) |
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0B2545,100:3DA9FC" width="100%" />
-
-## Actividad en GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=brayperez27&show_icons=true&hide_border=true&bg_color=00000000&title_color=1B6CA8&icon_color=3DA9FC&text_color=6B7A90&locale=es" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayperez27&layout=compact&hide_border=true&bg_color=00000000&title_color=1B6CA8&text_color=6B7A90&locale=es" height="165" />
 
 </div>
 
